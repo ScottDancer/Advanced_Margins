@@ -7,13 +7,16 @@
 .div1 {
   width: 100px;
   height: 100px;
-  background-color: #4C9E8D;
+  background-color:  #D14F5B;
   opacity: .6;
+  margin: 0 auto;
 }
 
-.div1 {
+.div2 {
   width: 100px;
   height: 100px;
-  background-color: #D14F5B;
+  background-color: #4C9E8D;
   opacity: .6;
+  margin-top: -30px;
+  margin-left: -5px;
 }
