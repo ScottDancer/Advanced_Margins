@@ -1,5 +1,19 @@
 * {
   box-sizing: border-box;
-  background-color: #AA827C;
+  background-color: hsl(8,21%, 75.6%);
   color: #313638;
+}
+
+.div1 {
+  width: 100px;
+  height: 100px;
+  background-color: #4C9E8D;
+  opacity: .6;
+}
+
+.div1 {
+  width: 100px;
+  height: 100px;
+  background-color: #D14F5B;
+  opacity: .6;
 }
